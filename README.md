@@ -1,5 +1,8 @@
 
 # Employee tracker
+## Walkthrough video:
+
+https://drive.google.com/drive/folders/1Qec-GmgC1EgmsDg8XvGIgGTK19eC2fPd?usp=sharing
 
 ## Table of Contents
 - [Description](#description)
@@ -23,7 +26,7 @@ This app will walk you through several questions to create and manage a database
 This project is licensed under the MIT License.
 
 ## Contributing
-You can get involved in this project By cloning and creating a branch of the repository en github, you can add actions and improvements to the general app.
+You can get involved in this project by cloning and creating a branch of the repository en github, you can add actions and improvements to the general app.
 
 ## Tests
 It has been tested in local machine, it achieves its general purpose. A awalkthorugh video is added to demonstrate its functionality.
